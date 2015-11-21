@@ -1,0 +1,28 @@
+name: Londonproperty
+favicon: null
+layout_spectrum: 0.37401090236380696
+typography_spectrum: 0.5659548516850919
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6930696573108435
+  lightness: 0.14016554015688598
+  saturation: 0.35388981690630317
+  rhythmicContrast: 0.5747949772048742
+purpose: []

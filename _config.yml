@@ -1,7 +1,7 @@
 name: Londonproperty
 favicon: null
-layout_spectrum: 0.37401090236380696
-typography_spectrum: 0.5659548516850919
+layout_spectrum: 0.38809
+typography_spectrum: 0.91637
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#0d1f67'
+    - '#bdbdbf'
+    - '#909092'
+    - '#ca1a2f'
   brandStrength: 0.6930696573108435
   lightness: 0.14016554015688598
   saturation: 0.35388981690630317
